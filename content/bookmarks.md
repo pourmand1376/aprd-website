@@ -25,6 +25,7 @@ author: ["امیر"]
 
 ## موزیک
 - [سانگ سرا - جهان موسیقی بی کلام](https://songsara.net/)
+- [Stream and listen to music online for free with SoundCloud](https://soundcloud.com/)
 
 ## فیلم
 [WatchSeries HD | Watch Series Online free | TV Series](https://watchseries.mx/home)
