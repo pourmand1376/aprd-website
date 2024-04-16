@@ -67,4 +67,4 @@ comments: true
 - [Unpaywall: An open database of 20 million free scholarly articles](https://unpaywall.org/)
 - [ReadMedium - Read Translated Articles for Free!](https://readmedium.com)
 - [magnolia1234 / Bypass Paywalls Chrome Clean · GitLab](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean)
-- 
+- [**Archive.today** is a time capsule for web pages!](https://archive.ph/)
