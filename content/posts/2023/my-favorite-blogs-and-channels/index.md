@@ -66,6 +66,8 @@ comments: true
 
 [هیچ و پوچیهای زندگی – هیچ و پوچیهای زندگی](https://amirtaghavi.com/)
 
+[سحر شاکر](https://saharshaker.com/blog/)
+
 [جادی، کیبورد آزاد - Jadi](https://t.me/jadinet) - [RadioGeek | رادیوگیک](https://t.me/jadiradio)
 
 بعید می‌دونم کسی تو حوزه کامپیوتر فعالیت کنه و جادی رو نشناسه. جادی خودش برنده و نیاز به معرفی نداره. 
