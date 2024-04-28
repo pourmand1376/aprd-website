@@ -26,7 +26,9 @@ date: 2023-10-20 00:00:00 +03:30
 <a href="https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvNDgwYzk3YTA3OTI1NGEwNmJhMzk2NzgzYTQ0ZjBhY2MueG1s" target="_blank">
     <img src="googlepodcasts.svg" alt="Listen on Google Podcasts" style="width: 200px; height: auto;">
 </a>
-
+<a href="https://t.me/ai_station_fa" target="_blank">
+    <img src="telegram.svg" alt="Listen on Telegram" style="width: 200px; height: auto;">
+</a>
 <a href="https://rss.castbox.fm/everest/480c97a079254a06ba396783a44f0acc.xml" target="_blank">
     <img src="rss.svg" alt="Subscribe RSS Feed" style="width: 200px; height: auto;">
 </a>
