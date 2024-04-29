@@ -7,7 +7,7 @@
 }
 
 .link-container a {
-    display: block;
+    display: contents;
     flex: 1 1 200px; /* each anchor tag can grow and shrink but basis at 200px */
     margin: 5px;
     text-align: center;
