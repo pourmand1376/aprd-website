@@ -17,6 +17,7 @@ date: 2023-10-20 00:00:00 +03:30
 
 ### لینک‌ها
 
+<div class="link-container">
 <a href="https://open.spotify.com/show/6TPjftO0GVSh6ztwqqEUxM" target="_blank">
     <img src="spotify.svg" alt="Listen on Spotify" style="width: 200px; height: auto;">
 </a>
@@ -39,6 +40,7 @@ date: 2023-10-20 00:00:00 +03:30
     <img src="rss.svg" alt="Subscribe RSS Feed" style="width: 200px; height: auto;">
 </a>
 <!-- <h>https://nathangathright.github.io/podcast-badges/</h> -->
+</div>
 
 لوگوی پادکست رو هم همسرم **با عشق** طراحی کرده. خودش هر بار که می‌بینه، ذوق می‌کنه. امیدوارم شما هم خوشتون بیاد.
 
