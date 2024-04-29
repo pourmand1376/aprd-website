@@ -32,6 +32,9 @@ date: 2023-10-20 00:00:00 +03:30
 <a href="https://music.youtube.com/playlist?list=PL2zpou3rcADhTYvY85akqN8R08m58HsTr" target="_blank">
     <img src="youtube.svg" alt="Listen on Youtube Music" style="width: 200px; height: auto;">
 </a>
+<a href="https://podcastaddict.com/podcast/5101497" target="_blank">
+    <img src="podcastaddict-light.svg" alt="Listen on Podcast Addict" style="width: 200px; height: auto;">
+</a>
 <a href="https://feeds.chrt.fm/ai-station-podcast" target="_blank">
     <img src="rss.svg" alt="Subscribe RSS Feed" style="width: 200px; height: auto;">
 </a>
