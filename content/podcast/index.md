@@ -3,7 +3,7 @@ title: پادکست ایستگاه هوش‌ مصنوعی
 comments: true
 showtoc: false
 cover:
-  image: podcast/AI_Station.png
+  image: podcast/AI_Station-v2.jpg
 date: 2023-10-20 00:00:00 +03:30
 ---
 
