@@ -16,13 +16,14 @@ date: 2023-10-20 00:00:00 +03:30
 قراره تو فصل اول یه سری مباحث و مفاهیم پایه‌ای مهم هوش‌مصنوعی رو با هم مرور کنیم و راجع به کاربردهای هوش مصنوعی در صنعت (خصوصاً مدل‌های زبانی بزرگ) صحبت کنیم و احتمالاً تو فصل‌های بعد هم با افرادی که تو این حوزه دارند، کار می‌کنند گپ و گفتی داشته باشم. 
 ### لینک‌ها
 
+
 <div class="link-container">
 <a href="https://open.spotify.com/show/6TPjftO0GVSh6ztwqqEUxM" target="_blank">
     <img src="spotify.svg" alt="Listen on Spotify" style="width: 200px; height: auto;">
 </a>
-<!-- <a href="https://podcasts.apple.com/us/podcast/ایستگاه-هوش-مصنوعی/id1744073063" target="_blank">
+<a href="https://podcasts.apple.com/us/podcast/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/id1744073063" target="_blank">
     <img src="apple-light.svg" alt="Listen on Apple Podcast" style="width: 200px; height: auto;">
-</a> -->
+</a>
 <a href="https://castbox.fm/ch/5618013" target="_blank">
     <img src="castbox.svg" alt="Listen on Castbox" style="width: 200px; height: auto;">
 </a>
