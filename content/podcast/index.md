@@ -21,9 +21,9 @@ date: 2023-10-20 00:00:00 +03:30
 <a href="https://open.spotify.com/show/6TPjftO0GVSh6ztwqqEUxM" target="_blank">
     <img src="spotify.svg" alt="Listen on Spotify" style="width: 200px; height: auto;">
 </a>
-<a href="https://podcasts.apple.com/us/podcast/ایستگاه-هوش-مصنوعی/id1744073063" target="_blank">
+<!-- <a href="https://podcasts.apple.com/us/podcast/ایستگاه-هوش-مصنوعی/id1744073063" target="_blank">
     <img src="apple-light.svg" alt="Listen on Apple Podcast" style="width: 200px; height: auto;">
-</a>
+</a> -->
 <a href="https://castbox.fm/ch/5618013" target="_blank">
     <img src="castbox.svg" alt="Listen on Castbox" style="width: 200px; height: auto;">
 </a>
