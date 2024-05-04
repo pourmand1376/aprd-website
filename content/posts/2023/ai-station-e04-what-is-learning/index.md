@@ -35,6 +35,7 @@ fatags:
 
 <iframe src="https://castbox.fm/app/castbox/player/id5618013/id653364192?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
 
+### اسکریپت متنی این قسمت
 
 همچنین می‌توانید اسکریپت متنی پادکست که بصورت اتوماتیک توسط مدل تبدیل صوت به متن تولید شده است رو [اینجا](https://aprd.ir/transcripts/ai-station-e04/) ببینید. 
 
