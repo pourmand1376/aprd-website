@@ -1,6 +1,6 @@
 ---
 comments: false
-title: متن اپیزود ششم ایستگاه هوش‌ مصنوعی
+title: متن اپیزود هفتم ایستگاه هوش‌ مصنوعی
 showToc: false
 _build:
   list: false
