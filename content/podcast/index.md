@@ -33,9 +33,12 @@ date: 2023-10-20 00:00:00 +03:30
 <a href="https://t.me/ai_station_fa" target="_blank">
     <img src="telegram.svg" alt="Listen on Telegram" style="width: 200px; height: auto;">
 </a>
-<!-- <a href="https://music.youtube.com/playlist?list=PL2zpou3rcADhTYvY85akqN8R08m58HsTr" target="_blank">
-    <img src="youtube.svg" alt="Listen on Youtube Music" style="width: 200px; height: auto;">
-</a> -->
+<a href="https://music.youtube.com/playlist?list=PL6oGPVr0jiexpv1ogCzb4t0yDrRGrPMJb" target="_blank">
+    <img src="youtube-music.svg" alt="Listen on Youtube Music" style="width: 200px; height: auto;">
+</a>
+<a href="https://www.youtube.com/playlist?list=PL6oGPVr0jiexpv1ogCzb4t0yDrRGrPMJb" target="_blank">
+    <img src="youtube-light.svg" alt="Watch on Youtube" style="width: 200px; height: 50px;">
+</a>
 <a href="https://podcastaddict.com/podcast/5101497" target="_blank">
     <img src="podcastaddict-light.svg" alt="Listen on Podcast Addict" style="width: 200px; height: auto;">
 </a>
