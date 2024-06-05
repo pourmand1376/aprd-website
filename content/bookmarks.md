@@ -59,6 +59,9 @@ author: ["امیر"]
 - [Last Week Tonight](https://www.youtube.com/@LastWeekTonight)
 - [The Infographics Show](https://www.youtube.com/@TheInfographicsShow)
 
+کانال ورزش:
+- [Body Project - YouTube](https://www.youtube.com/@BodyProjectchallenge/videos)
+
 پیشنهادی یاور مشیرفر:
 - [The Diary Of A CEO - YouTube](https://www.youtube.com/@TheDiaryOfACEO)
 - [James Jani - YouTube](https://www.youtube.com/@JamesJani)
