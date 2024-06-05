@@ -59,6 +59,15 @@ author: ["امیر"]
 - [Last Week Tonight](https://www.youtube.com/@LastWeekTonight)
 - [The Infographics Show](https://www.youtube.com/@TheInfographicsShow)
 
+پیشنهادی یاور مشیرفر:
+- [The Diary Of A CEO - YouTube](https://www.youtube.com/@TheDiaryOfACEO)
+- [James Jani - YouTube](https://www.youtube.com/@JamesJani)
+- [The School of Life - YouTube](https://www.youtube.com/@theschooloflifetv)
+- [OxfordUnion - YouTube](https://www.youtube.com/@OxfordUnion)
+- [Opportunity Insights - YouTube](https://www.youtube.com/channel/UCwocQONAYeayb_939gaJ0sg)
+- [Kargah - YouTube](https://www.youtube.com/channel/UC4niy1_9h1Q1vOmulX8WYmw)
+- [Big Think - YouTube](https://www.youtube.com/@bigthink/videos)
+
 ## کانال‌های تکنولوژی
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 - [DevOps Toolkit - YouTube](https://youtube.com/@DevOpsToolkit?si=q4GR6OzhEoz7bhk0)
