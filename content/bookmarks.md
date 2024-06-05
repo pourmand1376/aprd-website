@@ -59,6 +59,18 @@ author: ["امیر"]
 - [Last Week Tonight](https://www.youtube.com/@LastWeekTonight)
 - [The Infographics Show](https://www.youtube.com/@TheInfographicsShow)
 
+کانال ورزش:
+- [Body Project - YouTube](https://www.youtube.com/@BodyProjectchallenge/videos)
+
+پیشنهادی یاور مشیرفر:
+- [The Diary Of A CEO - YouTube](https://www.youtube.com/@TheDiaryOfACEO)
+- [James Jani - YouTube](https://www.youtube.com/@JamesJani)
+- [The School of Life - YouTube](https://www.youtube.com/@theschooloflifetv)
+- [OxfordUnion - YouTube](https://www.youtube.com/@OxfordUnion)
+- [Opportunity Insights - YouTube](https://www.youtube.com/channel/UCwocQONAYeayb_939gaJ0sg)
+- [Kargah - YouTube](https://www.youtube.com/channel/UC4niy1_9h1Q1vOmulX8WYmw)
+- [Big Think - YouTube](https://www.youtube.com/@bigthink/videos)
+
 ## کانال‌های تکنولوژی
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
 - [DevOps Toolkit - YouTube](https://youtube.com/@DevOpsToolkit?si=q4GR6OzhEoz7bhk0)
@@ -79,17 +91,7 @@ author: ["امیر"]
 - [دیکشنری آنلاین تحلیلگران](http://tahlilgaran.org/TDictionary/WebApp/)
 
 ## لینک‌های متمم
-[رادیو مذاکره | پادکست محمدرضا شعبانعلی - محمدرضا شعبانعلی](https://www.shabanali.com/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D8%AA%DA%A9%D9%86%DB%8C%DA%A9-%D9%87%D8%A7%DB%8C-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87-%D9%81%D8%A7%DB%8C%D9%84/)
-
-[آخرین دیدگاه‌ها و نظرات دوستان متممی | متمم](https://motamem.org/recentcomments/)
-
-- [اتاق خبر | درس تفکر سیستمی | متمم](https://motamem.org/%d8%a7%d8%aa%d8%a7%d9%82-%d8%ae%d8%a8%d8%b1-%d8%af%d8%b1%d8%b3-%d8%aa%d9%81%da%a9%d8%b1-%d8%b3%db%8c%d8%b3%d8%aa%d9%85%db%8c/)
-- [اتاق خبر | درس ارزش آفرینی | متمم](https://motamem.org/%d8%a7%d8%b1%d8%b2%d8%b4-%d8%a2%d9%81%d8%b1%db%8c%d9%86%db%8c-%d8%af%d8%b1-%d9%85%d8%af%db%8c%d8%b1%db%8c%d8%aa-%da%a9%d8%b3%d8%a8-%d9%88-%da%a9%d8%a7%d8%b1-%d8%a7%d8%aa%d8%a7%d9%82-%d8%ae%d8%a8/)
-- [اتاق خبر | درس تصمیم گیری | متمم](https://motamem.org/%d8%b1%d9%88%d8%b4-%d8%aa%d8%b5%d9%85%db%8c%d9%85-%da%af%db%8c%d8%b1%db%8c-%d8%af%d8%b1%d8%b3%d8%aa-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1-%d9%88-%d8%b2%d9%86%d8%af%da%af%db%8c-%d8%a7%d8%aa%d8%a7%d9%82/)
-
-- [اتاق خبر | درس‌های خودشناسی و شخصیت‌شناسی | متمم](https://motamem.org/%d8%a7%d8%aa%d8%a7%d9%82-%d8%ae%d8%a8%d8%b1-%d8%ae%d9%88%d8%af%d8%b4%d9%86%d8%a7%d8%b3%db%8c-%d8%b4%d8%ae%d8%b5%db%8c%d8%aa-%d8%b4%d9%86%d8%a7%d8%b3%db%8c/)
-- [سبک زندگی (اتاق خبر) | متمم](https://motamem.org/%d8%b3%d8%a8%da%a9-%d8%b2%d9%86%d8%af%da%af%db%8c-%d8%a7%d8%aa%d8%a7%d9%82-%d8%ae%d8%a8%d8%b1/)
-- [رفتارها و عادتهای فردی در زندگی - متمم](https://motamem.org/%d8%b1%d9%81%d8%aa%d8%a7%d8%b1%d9%87%d8%a7-%d9%88-%d8%b9%d8%a7%d8%af%d8%aa%d9%87%d8%a7%db%8c-%da%a9%d9%88%da%86%da%a9-%d8%b2%d9%86%d8%af%da%af%db%8c-%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%af%d8%b1%d8%b3/)
+[دسته‌بندی درس‌های متمم | گاه‌نوشته‌های امیرپورمند](https://aprd.ir/motamem)
 
 ## وبلاگ‌ها
 - [THE PERSONAL MBA](https://personalmba.com/)
