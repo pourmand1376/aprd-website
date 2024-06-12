@@ -59,6 +59,7 @@ author: ["امیر"]
 - [Mohsen Namjoo](https://www.youtube.com/@officialmohsennamjoo)
 - [Last Week Tonight](https://www.youtube.com/@LastWeekTonight)
 - [The Infographics Show](https://www.youtube.com/@TheInfographicsShow)
+- [MagnatesMedia](https://www.youtube.com/@MagnatesMedia)
 
 کانال ورزش:
 - [Body Project - YouTube](https://www.youtube.com/@BodyProjectchallenge/videos)
