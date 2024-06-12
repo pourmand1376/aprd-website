@@ -20,6 +20,7 @@ author: ["امیر"]
 - [Log in to Overleaf - Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
 - [Wayback Machine](https://archive.org/)
 - [Remove Paywalls](https://archive.ph/)
+- [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
 
 [Webcam test - Check camera online](https://webcammictest.com/): تست وب‌کم - میکروفن - هندزفری
 
