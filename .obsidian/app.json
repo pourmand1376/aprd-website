@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./",
-  "promptDelete": false
+  "promptDelete": false,
+  "trashOption": "none"
 }
