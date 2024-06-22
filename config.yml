@@ -168,7 +168,7 @@ menu:
       url: /podcast/
       weight: 10
     - identifier: more
-      name: اضافات
+      name: بیشتر
       url: /more/
       weight: 100
 
