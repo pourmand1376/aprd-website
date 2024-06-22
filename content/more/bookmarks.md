@@ -2,6 +2,7 @@
 comments: false
 title: بوک‌مارک‌های من
 showToc: false
+url: /bookmarks
 author: ["امیر"]
 ---
 

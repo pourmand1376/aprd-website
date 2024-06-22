@@ -2,6 +2,7 @@
 comments: false
 title: دسته‌بندی درس‌های متمم
 showToc: false
+url: /motamem
 author:
   - امیر
 ---

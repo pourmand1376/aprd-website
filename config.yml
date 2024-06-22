@@ -150,6 +150,7 @@ menu:
     - identifier: about
       name: درباره من
       url: /about
+      weight: 90
     - identifier: FATags
       name: تگ‌ها
       url: /fatags/
@@ -158,14 +159,18 @@ menu:
       name: آرشیو
       url: /archives/
       weight: 30
-    - identifier: search
-      name: جستجو
-      url: /search/
+    # - identifier: search
+    #   name: جستجو
+    #   url: /search/
       weight: 40
     - identifier: podcast
       name: پادکست
       url: /podcast/
       weight: 10
+    - identifier: more
+      name: اضافات
+      url: /more/
+      weight: 100
 
 languages:
   fa:
