@@ -147,16 +147,6 @@ cover:
 
 امیدوارم که این قسمت هم براتون مفید بوده باشه. خدانگهدار. 
 
-
-
-
-
-
-
-
-
-
-
 ### منابع
 - [\[2307.06435\] A Comprehensive Overview of Large Language Models (Page 33-34)](http://arxiv.org/abs/2307.06435) 
 - [\[2303.18223\] A Survey of Large Language Models (Page 62-63)](http://arxiv.org/abs/2303.18223)
