@@ -24,7 +24,7 @@ params:
   keywords: ["blog", "experience", "personal blog", "amir pourmand"]
   author: "امیر"
   # author: ["Me", "You"] # multiple authors
-  images: ["opengraph/ogp.png"]
+  #images: ["opengraph/ogp.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
