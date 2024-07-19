@@ -12,6 +12,21 @@ if [ ! -d "content/posts" ]; then
     exit 1
 fi
 
+# Function to update index.md
+update_index_md() {
+    local old_file="$1"
+    local new_file="$2"
+    local index_file="$3"
+    
+    if [ "$(uname)" == "Darwin" ]; then
+        # macOS version (using sed -i '')
+        sed -i '' "s|$old_file|$new_file|g" "$index_file"
+    else
+        # Linux version
+        sed -i "s|$old_file|$new_file|g" "$index_file"
+    fi
+}
+
 # Function to convert images in a directory
 convert_images() {
     local dir="$1"
@@ -30,7 +45,7 @@ convert_images() {
                 
                 # Update references in index.md
                 if [ -f "index.md" ]; then
-                    sed -i "s|$FILE|${FILE%.*}.webp|g" index.md
+                    update_index_md "$FILE" "${FILE%.*}.webp" "index.md"
                     echo "Updated reference in index.md: $FILE -> ${FILE%.*}.webp"
                 fi
                 
