@@ -1,6 +1,7 @@
 public/
 docs/
 .obsidian/workspace.json
+.DS_Store
 
 # Generated files by hugo
 public/
