@@ -1,0 +1,22 @@
+.latest-comments {
+    background-color: var(--code-bg);
+    border-radius: var(--radius);
+    padding: var(--content-gap);
+    margin-top: 0px;
+}
+.comments-title {
+    color: var(--primary);
+    font-size: 1.5rem !important;
+    font-weight: 500;
+    padding: 5px;
+    padding-bottom: 15px;
+}
+.comment-item {
+    padding: 5px;
+}
+.comment-item a {
+    color: var(--primary);
+}
+.comment-item a:hover {
+    text-decoration: underline;
+}
